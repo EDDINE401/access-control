@@ -1,8 +1,6 @@
 # TP 3: Linux Access Control CTF
-
+this is provided by eddine aka boualamallah djamel eddine
 - **Course / Module:** Computer Systems Security
-- **Target Environment:** Docker Challenge Container (`student`, `uid=1001`, `gid=1001`)
-- **Session Log:** `tp3_session.log`
 
 > [!NOTE]
 > **Scope & Rules:** All enumeration, exploitation, and verification steps were carried out strictly inside the challenge container as the unprivileged `student` account. No root password guessing, host/Docker socket attacks, or kernel exploits were used.
